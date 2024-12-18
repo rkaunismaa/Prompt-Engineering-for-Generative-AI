@@ -11,3 +11,7 @@ This repo will be my attempt at running the code WITHOUT using OpenAI! I will ON
 ## Saturday, December 14, 2024
 
 Running 'Chapter_1/ab-testing.ipynb' against various models both locally and against the 4090. It's a good reminder that the models are not created equal.
+
+## Wednesday, December 18, 2024
+
+Re-ran everything again.
