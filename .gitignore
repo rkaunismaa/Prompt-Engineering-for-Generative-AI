@@ -2,3 +2,4 @@
 
 chapter_4/_transactions_with_enriched_data.csv
 chapter_4/few_shot_prompt.pickle
+chapter_4/translation_prompt.json
