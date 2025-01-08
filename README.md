@@ -15,3 +15,7 @@ Running 'Chapter_1/ab-testing.ipynb' against various models both locally and aga
 ## Wednesday, December 18, 2024
 
 Re-ran everything again.
+
+## Wednesday, January 8, 2025
+
+Getting back to this today. Latest version of LMStudio is now at 0.3.6 and it now has a beta Tool Calling API which I want to check out.
