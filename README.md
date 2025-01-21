@@ -19,3 +19,7 @@ Re-ran everything again.
 ## Wednesday, January 8, 2025
 
 Getting back to this today. Latest version of LMStudio is now at 0.3.6 and it now has a beta Tool Calling API which I want to check out.
+
+## Tuesday, January 21, 2025
+
+Yup, getting back to this (again!) after looking at other stuff for a while. Today I downloaded LMStudio 0.3.7 which supports DeepSeek R1, a model that does not appear to support tool calling but has amazing Chain-Of-Thought reasoning capabilities. 
